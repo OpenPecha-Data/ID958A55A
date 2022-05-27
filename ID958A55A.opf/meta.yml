@@ -1,0 +1,23 @@
+id: ID958A55A
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T17:23:41.414653'
+last_modified: '2022-05-27T17:23:41.414679'
+parser: null
+source_metadata:
+  title: 'MSV 1,15: Śayanāsanavastu'
+  language: bo
+  base:
+    fB011:
+      title: Śayanāsanavastu
+      base_file: fB011.txt
+      order: 1
+  chapter_to_tile: {}
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
